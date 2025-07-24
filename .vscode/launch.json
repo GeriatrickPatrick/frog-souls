@@ -5,8 +5,11 @@
             "name": "PICO8: Launch Current File through PowerShell",
             "type": "PowerShell",
             "request": "launch",
-            "script": "./run.ps1 ${file}",
-            "args": []
+            "script": "./run.ps1",
+            "args": [
+                "${file}",
+                "'C:\\Program Files\\pico-8_0.2.6b_windows\\pico-8\\pico8.exe'"
+            ]
         }
     ]
 }

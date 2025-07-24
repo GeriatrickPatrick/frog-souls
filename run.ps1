@@ -1,1 +1,1 @@
-& "C:\Program Files\pico-8_0.2.6b_windows\pico-8\pico8.exe" -windowed 1 -run $args[0]
+& "$($args[1])" -windowed 1 -run $args[0]
