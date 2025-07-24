@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "PICO8: Launch Current File through PowerShell",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "./run.ps1 ${file}",
+            "args": []
+        }
+    ]
+}

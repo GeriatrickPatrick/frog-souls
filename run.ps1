@@ -1,0 +1,1 @@
+& "" -windowed 1 -run $args[0]
