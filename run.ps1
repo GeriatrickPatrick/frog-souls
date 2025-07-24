@@ -1,1 +1,0 @@
-& "$($args[1])" -windowed 1 -run $args[0]
