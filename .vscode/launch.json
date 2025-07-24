@@ -8,7 +8,7 @@
             "script": "& \"$($args[1])\" -windowed 1 -run $args[0]",
             "args": [
                 "${file}",
-                "'C:\\Program Files\\pico-8_0.2.6b_windows\\pico-8\\pico8.exe'"
+                "'C:\\Program Files (x86)\\PICO-8\\pico8.exe'"
             ]
         }
     ]
